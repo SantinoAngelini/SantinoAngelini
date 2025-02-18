@@ -97,7 +97,7 @@
   
 <a href="https://www.linkedin.com/in/santino-angelini-60978526b/" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="iscpatricio92" height="30" width="40" /></a>
 <a href="https://www.instagram.com/san_angee/" target="blank"><img align="center" src="https://www.svgrepo.com/show/475658/instagram-color.svg" alt="patricio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@iscpatricio" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="iscpatricio" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@san_angee" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="iscpatricio" height="30" width="40" /></a>
 <a href="mailTo:santiiangelini@gmail.com" target="blank"> <img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="iscpatricio" height="30" width="40" /></a>
 <a href="https://github.com/SantinoAngelini" target="blank"> <img align="center" alt="https://github.com/iscpatricio92" src="https://www.svgrepo.com/show/516640/github.svg" height="30" width="40" /></a>
 </p>
