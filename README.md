@@ -2,7 +2,7 @@
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
  
 ### <h1>¡HOLA! 👋 Soy Santino Angelini</h1>
-
+<br/>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=DESARROLLADOR+FRONT-END!;@san_angee+en+instagram;SANTINO+ANGELINI"></a>
 
 <br />
